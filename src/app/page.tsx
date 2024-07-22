@@ -30,7 +30,7 @@ export default function Home() {
             </ul>
             <div className="flex flex-col gap-2">
               <div className="flex gap-1 items-center whitespace-nowrap">
-              <span className="font-bold">$1.150</span>
+              <span className="font-bold">$1.270</span>
               -
               <span>In-Stock</span>
               </div>
@@ -75,7 +75,7 @@ export default function Home() {
             </ul>
             <div className="flex flex-col gap-2">
               <div className="flex gap-1 items-center whitespace-nowrap">
-              <span className="font-bold">$890</span>
+              <span className="font-bold">$1.010</span>
               -
               <span>In-Stock</span>
               </div>
@@ -120,7 +120,7 @@ export default function Home() {
             </ul>
             <div className="flex flex-col gap-2">
               <div className="flex gap-1 items-center whitespace-nowrap">
-              <span className="font-bold">$595</span>
+              <span className="font-bold">$715</span>
               -
               <span>In-Stock</span>
               </div>
@@ -165,7 +165,7 @@ export default function Home() {
             </ul>
             <div className="flex flex-col gap-2">
               <div className="flex gap-1 items-center whitespace-nowrap">
-              <span className="font-bold">$620</span>
+              <span className="font-bold">$740</span>
               -
               <span>In-Stock</span>
               </div>
@@ -210,7 +210,7 @@ export default function Home() {
             </ul>
             <div className="flex flex-col gap-2">
               <div className="flex gap-1 items-center whitespace-nowrap">
-              <span className="font-bold">$570</span>
+              <span className="font-bold">$690</span>
               -
               <span>In-Stock</span>
               </div>
@@ -255,7 +255,7 @@ export default function Home() {
             </ul>
             <div className="flex flex-col gap-2">
               <div className="flex gap-1 items-center whitespace-nowrap">
-              <span className="font-bold">$470</span>
+              <span className="font-bold">$590</span>
               -
               <span>In-Stock</span>
               </div>
@@ -300,7 +300,7 @@ export default function Home() {
             </ul>
             <div className="flex flex-col gap-2">
               <div className="flex gap-1 items-center whitespace-nowrap">
-              <span className="font-bold">$495</span>
+              <span className="font-bold">$615</span>
               -
               <span>In-Stock</span>
               </div>
@@ -345,7 +345,7 @@ export default function Home() {
             </ul>
             <div className="flex flex-col gap-2">
               <div className="flex gap-1 items-center whitespace-nowrap">
-              <span className="font-bold">$290</span>
+              <span className="font-bold">$410</span>
               -
               <span>In-Stock</span>
               </div>
@@ -389,7 +389,7 @@ export default function Home() {
             </ul>
             <div className="flex flex-col gap-2">
               <div className="flex gap-1 items-center whitespace-nowrap">
-              <span className="font-bold">$330</span>
+              <span className="font-bold">$450</span>
               -
               <span>In-Stock</span>
               </div>
@@ -433,7 +433,7 @@ export default function Home() {
             </ul>
             <div className="flex flex-col gap-2">
               <div className="flex gap-1 items-center whitespace-nowrap">
-              <span className="font-bold">$215</span>
+              <span className="font-bold">$299</span>
               -
               <span>In-Stock</span>
               </div>
