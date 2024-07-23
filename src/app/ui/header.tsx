@@ -21,7 +21,31 @@ export default function Header() {
         </div> */}
       </div>
 
-      <nav className="flex justify-between w-full ">
+      <nav className="flex justify-between w-full"
+      // flex 
+      // md:flex-row
+      // md:justify-between
+      // md:gap-0
+      // md:py-0
+      // md:h-auto
+      // md:relative
+      // md:left-auto
+      // md:top-auto
+      // md:bg-transparent
+
+      // flex-col 
+      // overflow-hidden
+      // justify-start
+      // gap-8
+      // py-16
+      // items-center
+      // h-[100vh]
+      // absolute
+      // left-0
+      // top-[4.95rem]
+      // w-full
+      // nav-media
+      >
         <div className="flex gap-8">
           <div className="hidden md:flex gap-8 items-center font-semibold text-base text-[color:var(--text-color-secondary)]">
             <a
