@@ -59,6 +59,19 @@ body {
   );
 }
 
+.nav-media{
+  background: linear-gradient(
+      to top,
+      #ffffff00,
+      #ffffffe3,
+      #fffffff1,
+      #fffffffb,
+      var(--background-color)
+    );
+    transition: 0.5s;
+    z-index: 0;
+}
+
 @keyframes pulse {
   0%,
   100% {
